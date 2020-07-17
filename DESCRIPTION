@@ -1,6 +1,6 @@
 Package: specs
 Title: Single-Equation Penalized Error-Correction Selector (SPECS)
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(person(given = "Etienne",
            family = "Wijler",
@@ -28,8 +28,8 @@ RoxygenNote: 7.1.0
 LinkingTo: Rcpp, RcppArmadillo
 Imports: Rcpp
 NeedsCompilation: yes
-Packaged: 2020-07-05 18:02:12 UTC; Etienne
+Packaged: 2020-07-07 23:30:30 UTC; Etienne
 Author: Etienne Wijler [aut, cre],
   Stephan Smeekes [aut] (<https://orcid.org/0000-0002-0157-639X>)
 Repository: CRAN
-Date/Publication: 2020-07-06 13:40:02 UTC
+Date/Publication: 2020-07-17 12:20:02 UTC
